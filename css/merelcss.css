@@ -1,0 +1,10 @@
+@charset "utf-8";
+.bered {
+    color: #EE0408;	}
+.begreen{
+    color: #38C148; 
+}
+.mybg {
+    background-image: url(../images/background%20tiles.jpg);
+    background-repeat: repeat;
+}

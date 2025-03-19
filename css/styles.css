@@ -1,9 +1,23 @@
-/* Use this file to use your own styles*/
 
-/* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-/* Styles for the body */
+head { 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Merel Entius</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap" rel="stylesheet">
+
+ 
+	<style>}
+ 
+.newsreader-example {
+      font-family: "Newsreader", serif;
+      font-optical-sizing: auto;
+      font-weight: 450; /* Normal weight */
+      font-style: normal;
+    }
+ 
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -11,21 +25,21 @@ body {
 	background-color: #f8f8fc;
 }
 
-/* Styles for custom classes in the document. (There are more, try to find them out!) */
+
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #F3F3F3;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #6A88B8;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #D0A2D8;
 }
 
-/* Styles for lists in the document */
+
 
 .biography-details li::before, .skill-list li::before {
 	content: ">";
@@ -43,9 +57,15 @@ body {
 	padding-left: 1em;
 }
 
-/* Styles for contact icons */
+
 
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.d-flex {
+  color: black; 
+}
+
+

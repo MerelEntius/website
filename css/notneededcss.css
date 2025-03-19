@@ -1,0 +1,25 @@
+@charset "utf-8";
+.mybox {
+    width: 120px;
+    height: 120px;
+    background-color: #D65255;
+}
+.mybox2 {
+    width: 120px;
+    height: 120px;
+    background-color: #76ABBE;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+}
+.barriecito-regular {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.container-fluid {background-color: #8D94D8}
+
+.col {background-color: aqua}
+.col2 {background-color: aquamarine}
+.col3 {background-color: #10DD4D}
